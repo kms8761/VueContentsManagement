@@ -1,2 +1,1 @@
-# VueContentsManagement
-vue project
+vue 공부
